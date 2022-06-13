@@ -66,7 +66,7 @@ By default, the trained model will be saved in ``./log`` directory.
 ## Inference
 
    ```
-   python simple_extractor.py --dataset [DATASET] --model-restore [CHECKPOINT_PATH] --input-dir [INPUT_PATH] --output-dir [OUTPUT_PATH]
+   python simple_extractor.py --dataset pascal --model-restore [CHECKPOINT_PATH] --input-dir [INPUT_PATH] --output-dir [OUTPUT_PATH]
    ```
 ## Reference
   
