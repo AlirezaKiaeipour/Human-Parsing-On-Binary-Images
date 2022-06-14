@@ -7,8 +7,8 @@
 ## Setup
 Clone repo and install requirements.txt
   ```
-  git clone https://github.com/ultralytics/yolov5  # clone
-  cd Helmet-Detection
+  git clone https://github.com/AlirezaKiaeipour/Human-Parsing-On-Binary-Images.git # clone
+  cd Human-Parsing-On-Binary-Images
   pip install -r requirements.txt  # install
   ```
   
